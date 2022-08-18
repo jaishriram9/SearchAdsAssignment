@@ -1,0 +1,28 @@
+
+.add__body{
+    min-height:470px;
+    width: 400px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border:1px solid lightgrey;
+    padding: 10px;
+}
+
+.add__body h3{
+    color: rgb(12, 12, 197);
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+}
+
+.add .add__body > img{
+    height: 250px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+
+button a{
+    text-decoration: none;
+    color: black;
+}
